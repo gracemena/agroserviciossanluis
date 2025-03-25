@@ -36,15 +36,27 @@ p{
 	max-width: 100%;
 }
 
+#logo{
+	background-color: #fff;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 20px 30px;
+}
+#logo img{
+	width: 130px;
+	
+}
+
 #perfil{
-	background-color: var(--fondo-gris);
+	background-color: #fff;
 	margin-top: 0;
 	margin-bottom: 0;
 	padding: 20px 30px;
 }
 #perfil img{
-	width: 130px;
-	
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
 }
 
 .panel-left .item-media span{
